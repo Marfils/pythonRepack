@@ -7,7 +7,7 @@
 为什么会去做：cocos2d-x打包后讲计费sdk中的so文件重新编译，导致计费失败
 
 todo list:<br/>
-1. 修改包名
+1. 修改包名<br/>
 2. 替换icon<br/>
 3. 替换asserts文件中的特定文件<br/>
 4. 替换AndroidManifest.xml文件中特定meta-data的值(渠道识别)
